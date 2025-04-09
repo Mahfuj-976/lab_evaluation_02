@@ -130,7 +130,7 @@ class FileManagerHome extends StatelessWidget {
 
       appBar: AppBar(
         title: Text("Mahfuj"),
-        backgroundColor: const Color.fromARGB(255, 15, 109, 19),
+        backgroundColor: const Color.fromARGB(255, 7, 77, 11),
         actions: [
           TextButton(
             onPressed: () {},
